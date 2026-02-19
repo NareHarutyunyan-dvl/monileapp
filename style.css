@@ -275,16 +275,21 @@ p {
 }
 
 .work-imege{
-    width: 50%;
+    max-width: 620px;
+    max-height: 740px;
     position: relative;
 }
 
 .img1{
+    max-width: 375px;
+    max-height: 400px;
     position: absolute;
 
 }
 
 .img2{
+    max-width: 375px;
+    max-height: 400px;
     position: absolute;
     left: 100px;
 }
@@ -306,6 +311,131 @@ p {
     width: 236px;
     height: 137px;
 }
+
+
+.BG{
+    width: 100%;
+    height: 1050px;
+    background-color: #353448;  
+}
+
+.tabSection{
+    display: flex;
+    gap: 106px;
+    border: solid red;
+}
+
+.butget{
+    max-width: 132px;
+}
+
+
+.dolar{
+    width: 30px;
+    height: 30px;
+}
+
+.border{
+    width: 160px;
+    border-bottom: 3px solid #FFC059;
+}
+
+.budgetOverview{
+    max-width: 132px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFC059;
+    gap: 10px;
+}
+
+.create{
+    max-width: 119px;
+}
+
+.setting{
+    width: 30px;
+    height: 30px;
+}
+
+.line{
+    width: 1520px;
+    border-bottom: 1px solid #49485a;
+}
+
+.createAbject{
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+}
+
+.report{
+    width: 30px;
+    height: 30px;
+}
+
+/* .viewReport{
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+} */
+
+/* .line1{
+    border-bottom: 1px solid #49485a;
+
+} */
+
+.optimize{
+    width: 30px;
+    height: 30px;
+}
+
+/* .intreduce{
+
+} */
+
+.intreduceText{
+    max-width: 458px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: white;
+    margin-top: 137px;
+}
+
+.textIntreduce{
+    max-width: 436px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: white;
+    margin-top: 25px;
+
+}
+
+.details{
+    padding:20px 50px ;
+    background-color: #FFC059;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 40px;
+    color: white;
+}
+
+.statistics{
+    width: 500px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 0;
+}
+/* .pricingPlan{
+    max-width: 384px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 55px;
+    align-items: center;
+} */
+
+
 
 
 
