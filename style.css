@@ -274,14 +274,14 @@ p {
     line-height: 42px;
 }
 
-<<<<<<< Updated upstream
+
 .work-imege{
     width: 50%;
-=======
+}
+
 .workImege{
     max-width: 620px;
     max-height: 740px;
->>>>>>> Stashed changes
     position: relative;
 }
 
@@ -314,8 +314,7 @@ p {
 }
 
 
-<<<<<<< Updated upstream
-=======
+
 .statisticTab{
     width: 100%;
     height: 1050px;
@@ -618,7 +617,7 @@ p {
 
 
 
->>>>>>> Stashed changes
+
 
 
 
